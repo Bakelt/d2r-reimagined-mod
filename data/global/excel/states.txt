@@ -196,3 +196,6 @@ monsterset2	193	3			1						1																																					fire_cast_2				
 monsterset3	194	3			1						1																																					fire_cast_2																1	40								0
 monsterset4	195	3			1						1																																					fire_cast_2																1	156								0
 battleorders1	196					1																																					bladeshield					battleorderscast																									0
+fenris	197				1						1																				1			1																														1	421								0
+spiritwolf	198				1						1																				1			1																														1	420								0
+druidbear	199				1						1																				1			1																														1	428								0
