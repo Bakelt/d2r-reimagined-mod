@@ -43,9 +43,22 @@ shadowmaster		0	7ar	rarm	3	7xf	rarm	3	7qr	rarm	3	0
 shadowmaster		0	7cs	larm	3	7tw	larm	3	7qr	larm	3	0
 shadowmaster		0		tors	3							0
 shadowmaster		0		head	3							0
-fenris		0	vf3	tors	7							0
 necroskeleton		0	vf3	tors	7							0
 claygolem		0	vf3	tors	7							0
 bloodgolem		0	vf3	tors	7							0
-druidbear		0	vf3	tors	7							0
+druidbear		29	x35	head	7							0
+druidbear		23	x34	head	7							0
+druidbear		17	x33	head	7							0
+druidbear		9	x32	head	7							0
+druidbear		1	x31	head	7							0
+spiritwolf		29	x15	head	7							0
+spiritwolf		23	x14	head	7							0
+spiritwolf		17	x13	head	7							0
+spiritwolf		9	x12	head	7							0
+spiritwolf		1	x11	head	7							0
+fenris		29	x25	head	7							0
+fenris		23	x24	head	7							0
+fenris		17	x23	head	7							0
+fenris		9	x22	head	7							0
+fenris		1	x21	head	7							0
 *end*  do not remove												0
