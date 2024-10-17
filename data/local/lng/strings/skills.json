@@ -4915,7 +4915,7 @@
     {
         "id": 4289,
         "Key": "StrSkill37",
-        "enUS": "Damage Taken: %+d%%",
+        "enUS": "Physical Damage Taken: %+d%%",
         "zhTW": "受到的傷害：%+d%%",
         "deDE": "Erlittener Schaden: %+d%%",
         "esES": "Daño sufrido: %+d%%",
@@ -35885,5 +35885,22 @@
         "ptBR": "Onda de Choque Dano: %d-%d",
         "ruRU": "Ударная волна Урон: %d–%d",
         "zhCN": "震波 伤害: %d-%d"
+    },
+    {
+        "id": 27378,
+        "Key": "StrSkillWolvFCR",
+        "enUS": "%+d%% Faster Cast Rate",
+        "zhTW": "%+d%% 施法速度",
+        "deDE": "%+d%% schnellere Zauberrate",
+        "esES": "Velocidad de lanzamiento un %+d%% más rápida",
+        "frFR": "Vitesse de sort très rapide : %+d%%",
+        "itIT": "%+d%% velocità di lancio incantesimi",
+        "koKR": "시전 속도 %+d%%",
+        "plPL": "%+d%% do szybkości rzucania czarów",
+        "esMX": "%+d%% de velocidad de lanzamiento",
+        "jaJP": "スキル発動速度（%+d%%）",
+        "ptBR": "Taxa de lançamento %+d%% mais rápida",
+        "ruRU": "%+d%% к скорости применения умений",
+        "zhCN": "%+d%% 更快速施法"
     }
 ]

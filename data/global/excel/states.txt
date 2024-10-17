@@ -199,3 +199,4 @@ battleorders1	196					1																																					bladeshield					batt
 fenris	197				1						1																				1			1																														1	421								0
 spiritwolf	198				1						1																				1			1																														1	420								0
 druidbear	199				1						1																				1			1																														1	428								0
+barbed	200					1																																						spirit_of_barbs						damageresist																							0
