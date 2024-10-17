@@ -30500,7 +30500,7 @@
     {
         "id": 22100,
         "Key": "Skillld237",
-        "enUS": "summon a spirit pet that adds\nto the damage and attack rating\nof you and your party",
+        "enUS": "summon a spirit pet that adds\nto the damage, attack rating, attack speed\nand cast speed of you and your party",
         "zhTW": "召喚一個魂靈夥伴，提高你和隊伍成員的傷害和準確率",
         "deDE": "Ruft einen Geisterdiener herbei,\nder Schaden und Angriffswert\nvon Euch und Eurer Gruppe erhöht.",
         "esES": "Invoca a una mascota espiritual\nque os otorga un aumento de daño\ne índice de ataque a ti y tu grupo.",
