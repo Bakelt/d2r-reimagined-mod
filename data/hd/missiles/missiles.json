@@ -711,5 +711,5 @@
     "dsum_firestorm_m": "ground_fire_small",
     "dsum_firemaker_m": "expansion_firestorm_emitter",
     "dsum_shockwave_m": "expansion_shockwave",
-    "dsum_ravenattack_m": "b_a_yell_shock_wave_01",
+    "dsum_ravenattack_m": "warcry_shockwave"
 }
