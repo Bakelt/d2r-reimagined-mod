@@ -902,5 +902,6 @@
     "pala_bloodsplash_visual": "bloodsplash",
     "arcticblast_start": "null",
     "arcticblast_explode": "blue_nova_b",
-    "arcticblast_linger": "null"
+    "arcticblast_linger": "null",
+    "zenith_firestorm": "zenith_fire"
 }
